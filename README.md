@@ -33,17 +33,27 @@ Y = yellow
 --== SAMPLE INPUT AND OUTPUT ==--
 
 Input:
+
 5 5
+
 0 0 N R
+
 FFRFIFIRFIF
+
 4 0 N G
+
 FLFFRFIRFILFLFI
 
 Expected output:
+
 EEEEE
+
 EEGEE
+
 ERYGE
+
 EEREE
+
 EEEEE
 
 --====--
